@@ -4,12 +4,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/manzoorali29/RE-LLM-Papers/blob/main/LICENSE)
  
 
-What can LLMs do for RE (Relation Extraction) or waht did LLMs did so far for RE?
+What can LLMs do for RE (Relation Extraction) or what did LLMs done so far for RE?
 🙌 This repository collects papers where **large language models** contribute for **Relation Extraction**.
 
 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
 
-<!-- Details of summary and classification of papers are shown in [wiki](https://github.com/manzoorali29/RE-LLM-Papers/wiki). -->
+<!-- Details of the summary and classification of papers are shown in [wiki](https://github.com/manzoorali29/RE-LLM-Papers/wiki). -->
 
 ## 🔔 News
 Here we will post the newly added paper.
