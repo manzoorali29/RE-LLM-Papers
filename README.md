@@ -43,6 +43,11 @@ Here we will post the newly added paper.
   <img src="https://contrib.rocks/image?repo=manzoorali29/RE-LLM-Papers" />
 </a>
 
+### History ⏺️
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=manzoorali29/RE-LLM-Papers&type=Date)](https://star-history.com/#manzoorali29/RE-LLM-Papers&Date)
+
 ### 🎉 Contributing ( welcome ! )
 
 - ✨ Add a new paper or update an existing RE LLM paper.
