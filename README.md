@@ -26,6 +26,10 @@ Here we will post the newly added paper.
 ## Content
 
 ##  Papers
+| Titel            | Link    | LLMs | Dataset | Eval Metric | Score | Year | Conf/Jrnl/Arcive | 
+|-----------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------|----------|-------|------|-----|-----|
+|Are LLMs Good Annotators for Discourse-level Event Relation Extraction?| [ACL Anthology](https://aclanthology.org/2024.findings-emnlp.1/) | gpt-3.5-turbo-16k,Llama-2-7b-chat-hf |MAVEN-ERE | F,P,R | 12.3 | 2024| EMNLP| 
+
 
 ### Surveys
 
